@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<install version="1.5" type="plugin" group="content">
-    <name>includePHP</name>
-    <author>Anthony Ferrara</author>
-    <creationDate>August 2007</creationDate>
-    <copyright>(C) 2007 Anthony Ferrara.  All rights reserved.</copyright>
-    <license>GNU/GPL</license>
-    <authorEmail>ircmaxell@yahoo.com</authorEmail>
-    <authorUrl>www.joomlaperformance.com</authorUrl>
-    <version>1.1</version>
-    <description>Allows including php, javascript and HTML in content</description>
-    <files>
-        <filename plugin="includePHP">includePHP.php</filename>
-    </files>
-</install>
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+	<name>includePHP</name>
+	<author>Lorenzo Cameroni and Anthony Ferrara</author>
+	<creationDate>2015</creationDate>
+	<copyright>(C) 2015 Lorenzo Cameroni and Anthony Ferrara.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorUrl>https://github.com/came88/includePHP</authorUrl>
+	<version>2.0</version>
+	<description>Allows including php, javascript, css and HTML in content</description>
+	<files>
+		<filename plugin="includePHP">includePHP.php</filename>
+	</files>
+</extension>
 

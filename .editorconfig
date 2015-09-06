@@ -1,0 +1,17 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# Based on https://github.com/joomla/coding-standards/blob/master/IDE/editorconfig.ini
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+indent_style = tab
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# added by me to match http://joomla.github.io/coding-standards/
+tab_width = 4
