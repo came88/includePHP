@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<install version="1.5" type="plugin" group="content">
+    <name>includePHP</name>
+    <author>Anthony Ferrara</author>
+    <creationDate>August 2007</creationDate>
+    <copyright>(C) 2007 Anthony Ferrara.  All rights reserved.</copyright>
+    <license>GNU/GPL</license>
+    <authorEmail>ircmaxell@yahoo.com</authorEmail>
+    <authorUrl>www.joomlaperformance.com</authorUrl>
+    <version>1.1</version>
+    <description>Allows including php, javascript and HTML in content</description>
+    <files>
+        <filename plugin="includePHP">includePHP.php</filename>
+    </files>
+</install>
+
